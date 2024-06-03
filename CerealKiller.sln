@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CerealKiller", "CerealKiller\CerealKiller.csproj", "{5F07EDDB-3B4E-4DE4-B63B-AB4216650CD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F07EDDB-3B4E-4DE4-B63B-AB4216650CD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F07EDDB-3B4E-4DE4-B63B-AB4216650CD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F07EDDB-3B4E-4DE4-B63B-AB4216650CD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F07EDDB-3B4E-4DE4-B63B-AB4216650CD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B39C74AC-D35E-4022-A89B-D04E061731F2}
+	EndGlobalSection
+EndGlobal
